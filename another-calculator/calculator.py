@@ -9,7 +9,7 @@ def tampilan(num:int):
     if num == 2 :
         display = '''
             ======================================================
-            ||              Kalkulator Kelompok 6               ||
+            ||                  Kalkulator                      ||
             ||                                                  ||
             ||          Pilihan Perhitungan :                   ||
             ||                                                  ||
@@ -36,7 +36,7 @@ def tampilan(num:int):
     elif num == 1:
         display = '''
             ======================================================
-            ||              Kalkulator Kelompok 6               ||
+            ||                  Kalkulator                      ||
             ||                                                  ||
             ||          Pilihan Operasi Perhitungan :           ||
             ||          1. + (Tambah)                           ||
@@ -74,7 +74,7 @@ def tampilan(num:int):
     else : 
         display = '''
                 ======================================================
-                ||              Kalkulator Kelompok 6               ||
+                ||                  Kalkulator                      ||
                 ||                                                  ||
                 ||          Pilihan Perhitungan :                   ||
                 ||                                                  ||
